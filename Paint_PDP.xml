@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProductDescription language="en-us" xmlns="http://schemas.microsoft.com/appx/2012/ProductDescription" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="\\kingkong\root\PUBLIC\Schema\ProductDescription\ProductDescription-universal-M.xsd" xml:lang="en-US" Release="">
+  <AppStoreName _locID="App_AppStoreName">
+    <!-- _locComment_text="{MaxLength=200} App AppStoreName" -->
+    <!-- This is optional.  AppStoreName is typically extracted from your package's AppxManifest DisplayName property. -->
+    <!-- Uncomment this next line if you wish to specify one explicitly instead. -->
+    Paint 3D
+  </AppStoreName>
+  <Keywords>
+    <!-- Valid length: 45 character limit, up to 7 -->
+    <Keyword _locID="App_keyword1">
+      <!-- _locComment_text="{MaxLength=45} App keyword 1"-->
+    MS Paint
+    </Keyword>
+    <Keyword _locID="App_keyword2">
+      <!-- _locComment_text="{MaxLength=45} App keyword 2"-->
+    Creative
+    </Keyword>
+    <Keyword _locID="App_keyword3">
+      <!-- _locComment_text="{MaxLength=45} App keyword 3"-->
+    Drawing
+    </Keyword>
+    <Keyword _locID="App_keyword4">
+      <!-- _locComment_text="{MaxLength=45} App keyword 4"-->
+    Photo
+    </Keyword>
+    <Keyword _locID="App_keyword5">
+      <!-- _locComment_text="{MaxLength=45} App keyword 5"-->
+    3D
+    </Keyword>
+    <Keyword _locID="App_keyword6">
+      <!-- _locComment_text="{MaxLength=45} App keyword 6"-->
+    Art
+    </Keyword>
+    <Keyword _locID="App_keyword7">
+      <!-- _locComment_text="{MaxLength=45} App keyword 7"-->
+    3D Model
+    </Keyword>
+  </Keywords>
+  <!-- Valid length: 10000 character limit -->
+  <Description _locID="App_Description">
+    <!-- _locComment_text="{MaxLength=10000} App Description"-->
+    Whether you’re an artist or just want to try out some doodles–Paint 3D makes it easy to unleash your creativity and bring your ideas to life. Classic Paint has been reimagined, with an updated look and feel and a ton of new brushes and tools. And now, create in every dimension. Make 2D masterpieces or 3D models that you can play with from all angles. 
+  </Description>
+  <!-- Windows client only section, optional -->
+  <AppFeatures>
+    <!-- Valid length: 200 character limit, up to 20 -->
+    <AppFeature _locID="App_feature1">
+      <!-- _locComment_text="{MaxLength=200} App Feature 1"-->
+      2D? Meet 3D. Instantly create cut-outs from your favorite pictures with Magic Select, then use them as stickers to wrap onto your 3D models.
+    </AppFeature>
+    <AppFeature _locID="App_feature2">
+      <!-- _locComment_text="{MaxLength=200} App Feature 2"-->
+      Set the scene. Try realistic textures like hardwood and soft grass, and choose the filter and lighting options that best show off your creation.
+    </AppFeature>
+    <AppFeature _locID="App_feature3">
+      <!-- _locComment_text="{MaxLength=200} App Feature 3"-->
+      Debut your work on Remix3D.com. Discover thousands of 3D models from the Remix 3D community, and upload your own creations. 
+    </AppFeature>
+    <AppFeature _locID="App_feature4">
+      <!-- _locComment_text="{MaxLength=200} App Feature 4"-->
+      Doodle in 3D! Sketch a drawing with the 3D doodle tool and watch it instantly turn 3D.
+    </AppFeature>
+    <AppFeature _locID="App_feature5">
+      <!-- _locComment_text="{MaxLength=200} App Feature 5"-->
+      Show how it’s done. Export a video of your creative process and show others how you’ve made your work of art.
+    </AppFeature>
+  </AppFeatures>
+  <!-- Valid length: 200 character limit -->
+  <CopyrightAndTrademark _locID="App_CopyrightandTrademark">
+    <!-- _locComment_text="{MaxLength=200} Copyright and Trademark"-->
+    (c) 2015 - 2016 Microsoft Corporation.
+  </CopyrightAndTrademark>
+  <!-- Valid length: 10000 character limit -->
+  <!-- note -  this should be behind a "Microsoft services agreement" friendly link -->
+  <AdditionalLicenseTerms _locID="App_AdditionalLicenseTerms">
+    <!-- _locComment_text="{MaxLength=10000} Additional License Terms"-->
+    https://go.microsoft.com/fwlink/?LinkId=822631
+    https://go.microsoft.com/fwlink/?LinkId=529064
+  </AdditionalLicenseTerms>
+  <!-- END of Windows client section -->
+  <ScreenshotCaptions>
+    <!-- Valid length: 200 character limit, up to 9 elements per platform -->
+    <!-- Valid attributes: any of DesktopImage, MobileImage, XboxImage, SurfaceHubImage, and HoloLensImage -->
+    <Caption DesktopImage="1_Hardware_Crop.png" _locID="App_caption1">
+      <!-- _locComment_text="{MaxLength=200} Screenshot caption 1" -->
+      Quickly crop and resize your images and screenshots.
+    </Caption>
+    <Caption DesktopImage="2_Hardware_Sketch.png" _locID="App_caption2">
+      <!-- _locComment_text="{MaxLength=200} Screenshot caption 2" -->
+      Sketch your ideas and make notes with tools like the pen and marker.
+    </Caption>
+    <Caption DesktopImage="3_Hardware_3DDoodle.png" _locID="App_caption3">
+      <!-- _locComment_text="{MaxLength=200} Screenshot caption 3" -->
+      Turn freehand selections into 3D models using the 3D doodle tools.
+    </Caption>
+    <Caption DesktopImage="4_Hardware_MagicSelect_HowTo.png" _locID="App_caption4">
+      <!-- _locComment_text="{MaxLength=200} Screenshot caption 4" -->
+      Cut out content from your photos with magic select and create new works of art.
+    </Caption>
+    <Caption DesktopImage="5_Hardware_MagicSelect_Combine.png" _locID="App_caption5">
+      <!-- _locComment_text="{MaxLength=200} Screenshot caption 5" -->
+      Use magic select to quickly pull content off your pictures - we'll fill in the background!
+    </Caption>
+    <Caption DesktopImage="6_Hardware_Depth.png" _locID="App_caption6">
+      <!-- _locComment_text="{MaxLength=200} Screenshot caption 6" -->
+      Make any 2D selection 3D to add depth to your work.
+    </Caption>
+    <Caption DesktopImage="7_Hardware_Remix.png" _locID="App_caption7">
+      <!-- _locComment_text="{MaxLength=200} Screenshot caption 7" -->
+      Find more 3D models for your project from the Remix 3D online library.
+    </Caption>
+    <Caption DesktopImage="8_Hardware_Stickers.png" _locID="App_caption8">
+      <!-- _locComment_text="{MaxLength=200} Screenshot caption 8" -->
+      Customize your creation with stickers and textures.
+    </Caption>
+    <Caption DesktopImage="9_Hardware_MagicSelect_2DProd.png" _locID="App_caption9">
+      <!-- _locComment_text="{MaxLength=200} Screenshot caption 9" -->
+      Annotate your project with 2D shapes and text to share your ideas.
+    </Caption>
+  </ScreenshotCaptions>
+  <ReleaseNotes _locID="App_ReleaseNotes">
+    <!-- _locComment_text="{MaxLength=1500} App Release Note"-->Right-click an object to quickly copy, paste, undo, redo, take a screenshot, and more.
+    
+With the Windows 10 April 2018 Update, you can have more than one instance of Paint 3D open at the same time. Make quick edits to an image in one instance, then copy and paste it into the other.</ReleaseNotes>
+  <WebsiteURL _locID="App_WebsiteURL">
+    <!-- _locComment_text="{MaxLength=2048} WebsiteURL"-->
+  </WebsiteURL>
+  <SupportContactInfo _locID="App_SupportContactInfo">
+    <!-- _locComment_text="{MaxLength=2048} Support Contact Info"-->
+  </SupportContactInfo>
+  <PrivacyPolicyURL _locID="App_PrivacyURL">
+    <!-- _locComment_text="{MaxLength=2048} Privacy Policy URL"-->
+    https://go.microsoft.com/fwlink/?LinkId=521839
+  </PrivacyPolicyURL>
+  <RecommendedHardware />
+</ProductDescription>
